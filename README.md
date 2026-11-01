@@ -351,6 +351,8 @@ Completion of individual workstreams will be reflected in the deployment checkli
 
 <div align="center">
 
+<img src="./assets/footer-logo.png" alt="Ed's Footer Logo" width="130" />
+
 **Edward O'Connell**
 
 *IT Infrastructure • Windows Server Administration • Enterprise Networking*
