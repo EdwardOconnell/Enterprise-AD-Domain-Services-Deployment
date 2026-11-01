@@ -353,8 +353,12 @@ Completion of individual workstreams will be reflected in the deployment checkli
 
 <img src="./assets/footer-logo.png" alt="Ed's Footer Logo" width="130" />
 
-**Edward O'Connell**
+<strong>Edward O'Connell</strong>
 
-*IT Infrastructure • Windows Server Administration • Enterprise Networking*
+<p><em>IT Infrastructure • Windows Server Administration • Enterprise Networking</em></p>
+
+<p>IT professional with more than three years of hands-on experience in technical support, systems configuration, and IT infrastructure operations. Holds an associate degree in Cybersecurity and is currently pursuing a bachelor's degree in Cloud and Network Engineering, with career goals in systems administration, systems engineering, and related infrastructure roles.</p>
+
+<p><a href="https://www.linkedin.com/in/edwardcoconnelliii/">Connect with me on LinkedIn</a></p>
 
 </div>
